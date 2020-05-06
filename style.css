@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+body{
+    background-color: #e2e4e5;
+    text-align: center;
+}
+h1{
+    background-color: #eceff1;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    text-shadow: 1px 1px 3px red;
+    font-weight: bold;
+    padding: 10px 0;
+    margin-top:20px ;
+}
+figure{
+    display: inline-block;
+    margin: 20px;
+    padding: 7px 12px;
+} 
+figure:hover{
+    background-color: #eceff1;
+    cursor: pointer;
+    color: red;
+}
+p{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+img{
+    display: flex;
+    width: 300px;
+    height: 200px;
+}
